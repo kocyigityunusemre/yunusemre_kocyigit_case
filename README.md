@@ -48,4 +48,4 @@ cd yunusemre_kocyigit_case
 
 3.Maven ile testleri çalıştırın:
 
- mvn clean test
+ mvn -Dtest=QAJobsTest test
